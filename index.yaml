@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  default-helm-template:
+  - apiVersion: v2
+    appVersion: 3.6.0
+    created: "2021-06-12T17:59:46.509037431+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e3bfda846f3bb9bcbe9d4aa1e48a1327d1262d3ca1fb04ae45630547f6cc5790
+    name: default-helm-template
+    type: application
+    urls:
+    - https://hmoravec.github.io/helm-charts-repo/default-helm-template/default-helm-template-3.6.0.tgz
+    version: 3.6.0
+generated: "2021-06-12T17:59:46.508431194+02:00"
